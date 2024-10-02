@@ -26,11 +26,10 @@ PORTD for this version.
 
 
 You can find these on ali-express, amazon and ebay for very cheap:
+
 https://www.amazon.com/AITRIP-Development-Digispark-ATmega328-Compatible/dp/B09DY7Y4DL/
 https://www.aliexpress.us/item/3256804378194700.html
 https://www.ebay.com/itm/314965702332
-
-
 
 
  - The switch needs to be connected to the +5 pin and D3, we tie D3 to ground
