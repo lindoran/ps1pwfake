@@ -6,6 +6,9 @@ power switch, such as with the PS/1 2155 or compatible platforms. Useful when
 the power supply has been replaced with a standard ATX power supply wired as
 an AT power supply (either using an adapter or direct wire).
 
+This will probibly work with other computers with momentary switches. but has
+not been tested with anything other than my PS/1
+
 This should work with most 5V attiny chips and boards but you will need to work
 out pin assignments.
 
